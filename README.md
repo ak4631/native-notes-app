@@ -24,9 +24,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ✏️ Edit Task Modal – Edit existing tasks to update details or mark them as completed.
    📅 Deadline Support – Keep track of important task deadlines.
 
-## Images 
-![Login Screen](demo_images/Login.png)
-![Login Success](demo_images/login_success.png)
-![Add Task](demo_images/add_task.png)
-![Edit Task](demo_images/edit_task.png)
-![Task List](demo_images/Task_List.png)
+## Images
+<p float="left">
+  <img src="demo_images/Login.png" width="300"/>
+  <img src="demo_images/login_success.png" width="300"/>
+  <img src="demo_images/add_task.png" width="300"/>
+  <img src="demo_images/edit_task.png" width="300"/>
+  <img src="demo_images/Task_List.png" width="300"/>
+</p>
